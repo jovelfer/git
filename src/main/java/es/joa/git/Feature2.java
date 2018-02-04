@@ -9,4 +9,7 @@ public class Feature2 {
 		System.out.println( "Método 2 de Feature2" );
 	}
 	
+	public void metodo3(){
+		System.out.println( "Método 3 de Feature2" );
+	}
 }
